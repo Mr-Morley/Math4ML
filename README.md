@@ -1,4 +1,4 @@
-Book Available: [Mathematics for Machine learning by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong (Cambridge PRess)](https://mml-book.github.io/)
+Book Available: [Mathematics for Machine learning by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong (Cambridge Press)](https://mml-book.github.io/)
 ## Disclaimer
 As we navigate through this mathematical maze, expect to find:
 - **Expanded Tutorials**: Not just following along, but adding our own twists and turns.
